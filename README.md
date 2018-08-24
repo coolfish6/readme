@@ -10,12 +10,6 @@
 
 下划线 : 文字下方加 '-' 个数不限
 
-----
-
-====
-
-----
-
 # 一级标题<br>
 ## 二级标题<br>
 ### 三级标题<br>
@@ -31,9 +25,9 @@ README
 
 ****
 
-|Author|果冻虾仁|
+|Author|toviLau|
 |---|---
-|E-mail|Jelly.K.Wang@qq.com
+|E-mail|46134256@qq.com
 
 
 ****
